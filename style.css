@@ -1,0 +1,33 @@
+*{
+    font-family: sans-serif;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+body{
+    min-width: 1023px;
+}
+table{
+    margin: auto;
+    border-collapse: collapse;
+}
+.green{
+    background-color:#26870c;
+    color: white;
+    font-weight: bold;
+}
+.left{
+    text-align: left;
+    font-weight: bold;
+}
+td{
+    padding: 10px;
+}
+.dark{
+    background-color:#e0e0e0 ;
+}
+td,tr{
+    border: 1px solid #6fba34;
+    
+}
